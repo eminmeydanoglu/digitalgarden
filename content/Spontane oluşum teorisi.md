@@ -1,0 +1,5 @@
+---
+publish: 1
+---
+
+Peki evrimi reddeden, yani tüm bu farklı evrimsel teorilerin yanlış olduğunu iddia eden kişi bilimsel arenada hangi teori grubunu kabul eder? Bunun cevabı Spontane Oluşum teorisi. Spontane Oluşum teorisi çok hücreli canlı organizmaların herhangi bir biyolojik ebeveyn olmaksızın cansız maddelerden ortaya çıkabileceğini öne sürer. Bu inanış, cansız maddelerden kompleks ve eksiksiz yaşam formlarının kendiliğinden ortaya çıkabileceğini iddia eder. Örneğin çürüyen etlerden kaynaklanan kurtçuklar veya tahıllardan farelerin bu tarz bir oluşuma örnek olarak görülür. Bu teori modern mikrobiyolojinin ortaya çıkması büyük darbe yemeden önce çok sayıda bilim insanı ve felsefeci tarafından savunulmuştu. Aristoteles’in savunmasından dolayı özellikle Aristocular arasında yaygın bir pozisyondu. Bu yüzden dini yaratılışı da bu teori çerçevesinde düşünmek epey yaygındı. Sonuç olarak bilimsel zeminde Evrim teorilerinin rakibi, spontane oluşum teorileridir.
