@@ -32,6 +32,21 @@ def find_file_path(file_name, search_root):
             return os.path.join(root, file_name)
     return None
 
+# --- NEW FUNCTION: Delete conflict files ---
+def delete_conflict_notes():
+    print("Deleting notes with 'conflict' in filename...")
+    deleted_count = 0
+    for root, dirs, files in os.walk(OBSIDIAN_PATH):
+        if '.obsidian' in dirs:
+            dirs.remove('.obsidian')
+        for file in files:
+            if file.endswith('.md') and 'conflict' in file.lower():
+                file_path = os.path.join(root, file)
+                os.remove(file_path)
+                print(f"  - Deleted: {file_path}")
+                deleted_count += 1
+    print(f"Deleted {deleted_count} conflict files.\n")
+
 def sync_files():
     """
     Synchronizes published notes and their attachments from an Obsidian vault
@@ -44,10 +59,12 @@ def sync_files():
     required_attachments = set()
     total_md_files = 0
 
-    # 1. First pass: Walk the Obsidian vault to find all published notes and their required attachments.
+    # Step 0: Delete conflict notes before anything else
+    delete_conflict_notes()
+
+    # Step 1: Scan Obsidian vault
     print("Scanning Obsidian vault...")
     for root, dirs, files in os.walk(OBSIDIAN_PATH):
-        # Avoid walking the .obsidian config folder
         if '.obsidian' in dirs:
             dirs.remove('.obsidian')
 
@@ -57,23 +74,18 @@ def sync_files():
                 note_path = os.path.join(root, file)
                 if should_publish(note_path):
                     published_notes.add(file)
-                    # If published, read the file to find attachment links
                     with open(note_path, 'r', encoding='utf-8') as f:
                         content = f.read()
-                        # Regex for both wikilink `![[...]]` and markdown `!(...)` style image links
                         image_refs = re.findall(r'!\[\[(.*?)\]\]|!\[.*?\]\((.*?)\)', content)
                         for ref in image_refs:
-                            # ref is a tuple, e.g., ('image.png', '') or ('', 'path/to/image.png')
-                            # Get the non-empty group and normalize the path
                             attachment_path = next((item for item in ref if item), None)
                             if attachment_path:
-                                # Get the filename from the path
                                 attachment_name = os.path.basename(attachment_path.replace("/", os.sep))
                                 required_attachments.add(attachment_name)
 
     print(f"Found {len(published_notes)} published notes and {len(required_attachments)} required attachments.")
 
-    # 2. Sync notes: Copy new or updated published notes to Quartz
+    # Step 2: Sync notes
     print("\nSyncing notes...")
     copied_notes_count = 0
     for note_file in published_notes:
@@ -86,7 +98,7 @@ def sync_files():
                 print(f"  - Copied/Updated note: {note_file}")
                 copied_notes_count += 1
 
-    # 3. Sync attachments: Copy new or updated attachments to Quartz
+    # Step 3: Sync attachments
     print("\nSyncing attachments...")
     copied_attachments_count = 0
     for attachment_name in required_attachments:
@@ -101,17 +113,16 @@ def sync_files():
         else:
             print(f"  - WARNING: Attachment not found in vault: {attachment_name}")
 
-    # 4. Clean up: Remove notes from Quartz that are no longer published
+    # Step 4: Clean up notes in Quartz
     print("\nCleaning up old files...")
     deleted_notes_count = 0
     for file in os.listdir(QUARTZ_PATH):
-        # Only check for .md files in the root of the content folder
         if file.endswith('.md') and file not in published_notes:
             os.remove(os.path.join(QUARTZ_PATH, file))
             print(f"  - Deleted note: {file}")
             deleted_notes_count += 1
 
-    # 5. Clean up: Remove attachments from Quartz that are no longer referenced
+    # Step 5: Clean up unused attachments
     deleted_attachments_count = 0
     if os.path.exists(QUARTZ_ATTACHMENTS_PATH):
         for file in os.listdir(QUARTZ_ATTACHMENTS_PATH):

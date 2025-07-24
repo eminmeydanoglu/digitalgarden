@@ -1,5 +1,0 @@
----
-publish: 1
----
-
-Bir insanın yaşadığı duyguların makul olmadığını, onun yanlış duygulara kapıldığını söylemek kişinin benliğine hakaret gibidir. Bu bırak karşı tarafın yanılgısından kurtulup iyi hissetmesini sağlamayı, size karşı mesafe kazanmasına yol açabilir. "Sen duygu ve düşüncelerine hakim olamıyorsun, ve boş şeylere inanıyorsun" anlamı taşır bu cümle. Kişi artık orijinal problem yüzünden kötü hissetmeyi bırakıp, hissettiği şekilde hissetmemesi gerektiği söyleminiz karşısında kötü hissetmeye başlar. İnsanları yanılgılarından kurtarmanın daha kibar yolları vardır. Hissettiklerinin anlamsız olduğunu söylemek en az kibar olanıdır. İnsanların fikirlerini, görüşlerini, yaptıklarını eleştirmek başkadır, duygularını eleştirmek başka. İnsanlar duygularını benliklerinin bir parçası gibi görürler (Bence de öyledir) ve onlara yapılan saygısızlık pek az kişi tarafından hoş karşılanır.  
