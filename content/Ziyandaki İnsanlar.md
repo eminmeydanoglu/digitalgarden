@@ -1,0 +1,26 @@
+---
+publish: 1
+---
+
+> Bağlam: Bu metin aslında en yakın arkadaşım için yazdığım mektuplardan biri. Özel ayrıntılardan ziyade genel felsefi sorgulamalara odaklanması sebebiyle paylaşıma açmak istedim. Yazıdaki fikirlerde Seneca'dan, stilistik özelliklerde ise Genç Werther'in Acıları'ndan esintiler görebilirsiniz :)
+	
+1. Bunu söylerken beni şikayetçi veya üstten bakan biri gibi görmeni istemem: İnsanların haline üzülüyorum. Kötü olduklarından değil, ziyanda olduklarından üzülüyorum. “Nasıl ziyan içinde olunur?” diye sormalısın. Yasa dışı hatta ahlak dışı eylemler içinde olmaya gerek yoktur. İyi yaşamayı ve asıl değeri bilmemekten büyük ziyan mı vardır?
+    
+2. Onların ziyanlarının ana mesulü, değerde yanılmalarıdır. Sürekli neyin değerli olduğu konusunda yanıldıklarını görürüm. En fazla yanılanlar, mutlu olup olmayacağına bile bakmadan birkaç ilginç şey peşinde koşar: Para, güç, şöhret… Bu grubun kısa menzilli ışıkları onlara pek pahalıya mal olur. Bilmezler ki uğruna çırpınıp durdukları bu şeyler onlara pek az getirdiği gibi kendi sahip olduklarından (mesela ruhlarından, zamanlarından, iç dinginliklerinden) çalar. Zaferleri pek kısa ömürlüdür, yenilgileri ise sonsuzdur.
+    
+    Kimisi özgürlük bahanesiyle paraya ihtiyaç duyduğunu sanar da gidip zenginliğin esiri oluverir. Hiç de özgür değillerdir, çünkü mutluluklarını dışarıdaki şeylere bağlamışlardır.
+    
+3. Peki, bari bunlara ihtiyaçları var mıdır? “Bütün bunlar ne için?” diye sormalılar. Mide için mi bu koşuşturma? Karnını doyurmak için az bir yiyecek yeter. En lüks kıyafetler için mi? Üstünü örtmeye bir parça kumaş yeter. İnsanların seni takdir etmesini ve adını duyurmayı mı istiyorsun? Yoksa sen başkalarının sana biçtiği değeri kendi değerin mi sanıyorsun? Ruhunun ihtiyacı burada değil ama onu burada arıyorsun, oysa altın çuvallarının çokluğu ruhunun çıplaklığını örtemez.
+    
+    Bak onların yüzlerine: yüzleri hep gergindir ve hepsi birbirinin onayını bekler. Mutluluk mu bu şimdi? Başkasının ağzından çıkacak kelimeye muhtaç mutluluk benden uzak dursun! Her sabah kendilerini başkalarına kanıtlamakla yükümlü hissederler. Başkalarının ağzında dolaşacak isimlerini düşünerek uykusuz kalırlar. Peşinde koşanların bu hali üzerine, hala para ve şöhretin tatlı olduğuna mı inanacağız? Başka hangi arzular bu kadar açıkça zarar verdiği halde hala daha böylesine bir kararlılıkla takip edilir?
+    
+4. Başka üzüntülerim. Bir diğer ziyan grubu ise insanlarla bağ kurmanın değerini görmeyen ya da yanlış bağlananlardır. Onlar adına da üzülüyorum, ama işin aslı beni daha çok üzen, onlar yüzünden anlamlı ve değerli ilişkiler kurma arzumu tatmin edemememdir. Şu işe bak ki, bu arzuyu tatmin etmek başkalarından geçer. Kontrolümde olmayan arzularımdan sebep bana kızacaksan, hakkındır. Gerçi hakkın olmasa da bana kızabilirsin, ondan değilse başka şeyden hakkın vardır, sanki ben hiç kızılmayacak biri miyim?
+    
+5. Ama bu arzum, kanaatimce en azından bir miktar, doğru yönde. Seneca da bilge insanın yalnızlıkla yaşayabileceğini ama onu tercih etmeyeceğini söyler. Çünkü ona göre arkadaşlık (ya da genel olarak yakın bağlar) değerlidir. Bir keresi, arkadaşlık erdem için bir oynama sahasıdır. Cömertlik, nezaket, sadakat, özveri (diğerkamlık) gibi erdemleri pratik etme ve paylaşma imkanını böyle ediniriz. Arkadaşlık almadan vermek için fırsattır. Sana da, aramızdaki bağı en çok bu gözle görmeye çalıştığımı söylemiştim.
+    
+    Yakın bağlar başka neden değerlidir? Çünkü kişiler kendileri itibarıyla değerlidir. İnsanın kendisine içkin bir kıymeti olduğunu, kendi içime ya da başkalarına bakınca rahatlıkla görürüm. Joshua Rasmussen de bana katılıyor. O halde dostumuza, herhangi bir kişisel çıkardan değil, doğrudan varlığından değer verebiliriz.
+    
+6. Bir sebep daha var yazacağım: Yakın bağlar, kayıplara hazırlanmak için uygun bir fırsattır. Bilge kişi sevdiklerine gönülden bağlanırken dahi bilir ki bu bağ sonsuza dek sürmeyecek veya sürecekse bile en azından araya bir boşluk girecek ve elimizdeki kaybolacaktır. Sevdiğimizle bağımız ne kadar büyük ve değerli olsa da, ki bence olabilecek en değerli dışsal şeydir, dışsaldır ve o sebeptenki geçicidir. O halde bağımız, dışsal şeylerden el çekebilmeyi ve gün gelip kader onu bizden aldığında iç huzurumuzu kaybetmemeyi öğrenmek için bir fırsattır. Bazen seni kaybetmek üzerine düşündüğümü (olumsuzu düşünme taktiği) sana söylemiştim. Gerçi ben, senin için, bir bilgenin göstereceği sebattan hala çok uzaktayım, sevgili dostum.
+    
+7. Yine değerler üzerine yaşadıkları körlükten olsa gerek, ziyandaki dostlar yakın bağlardaki güzelliği göremiyorlar. Ne vardı şu sahte arzuları bırakıp güçlü bağlar için çalışsaydık. Her gün biraz para için kendimize türlü türlü görevler biçerken, ruhumuzu en çok zenginleştirecek asıl görevi nasıl unuturuz?
+	Düşünsene, kaç kişiyi bunun için kararlı bir çabada bulduk? Yoksa bu işi diğer uğraşlarından geride tutanlardan ve dostluğun kıymetini bilmezlerden başka bir şey görmez misin sende? Oysa değerli şeyler, hele ki dostluk, çok ve devamlı çaba gerektirir. Peki ey ziyandaki dostlar, siz bu işi para kazanmaktan veya isminizin sürekli dillerde dolaşmasından daha mı az önemli görüyorsunuz ki onun hakkında düşünmeye yanaşmıyorsunuz?
