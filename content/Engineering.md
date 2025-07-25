@@ -10,10 +10,8 @@ publish: true
 [[Machine Learning]]
 [[Deep Learning]]
 [[Reinforcement Learning]]
-### Coding 
-[[Coding]]
+
 ### Free for all
-[[Cool sayings in Math]]
 [[Multivariable Functions]]
 [[Saddle Points]]
 [[Second Derivative Test, Max Min Test]]
