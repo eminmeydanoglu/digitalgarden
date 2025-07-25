@@ -59,6 +59,8 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             if (data.title != null && data.title.toString() !== "") {
               data.title = data.title.toString()
+            } else if (file.stem === "index") {
+              data.title = ""
             } else {
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
