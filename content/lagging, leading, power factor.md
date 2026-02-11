@@ -1,8 +1,9 @@
 ---
 publish: 1
+entity_extraction_done: true
 ---
 
-#rw 
+ 
 ![[Pasted image 20250320161034.png]]
 Think about how current can lag. It is if there is an opposing current, something that an inductor produces.
 Think about how current can lead. That is when capacitor holds the voltage. So it is more capacitive. 

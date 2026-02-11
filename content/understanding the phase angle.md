@@ -1,6 +1,11 @@
 ---
 publish: 1
+tags:
+  - topic/physics
+  - topic/engineering
 ---
+
+## Understanding the Phase Angle in AC Circuits
 
 1. Impedance: Z = R + jX, where `X = wL - 1/wC`
 2. In AC circuits, phase angle of impedance is 
@@ -14,3 +19,4 @@ publish: 1
 - **If** $\omega L < \frac{1}{\omega C}$ (**capacitive dominance**), then $\theta_Z < 0$, meaning **current leads voltage**.
 - **At resonance** ($\omega = \frac{1}{\sqrt{LC}}$), we get $\theta_Z = 0$, meaning **current and voltage are in phase**.
 
+Bkz: [[electric dipole]] • [[Elektrik]] • [[stable systems]]

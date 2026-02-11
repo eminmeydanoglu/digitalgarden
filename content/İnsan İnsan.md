@@ -1,5 +1,6 @@
 ---
 publish: 1
+entity_extraction_done: true
 ---
 
 **İnsan insan dedikleri**
@@ -14,4 +15,6 @@ publish: 1
 **Bulmadı taşrada kalan**
 **Canların kalbinde olan**
 **İnanç nedir şimdi bildim.**
+
+*Bkz: [[İbn Arabi]], [[Tasavvuf]], [[Şiir]]*
 

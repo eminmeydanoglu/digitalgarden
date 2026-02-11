@@ -1,8 +1,9 @@
 ---
 publish: 1
+entity_extraction_done: true
 ---
 
-#rw
+
 In AC circuit analysis, we use complex numbers (and complex exponentials) as a convenient way to represent sinusoidal voltages and currents. This makes the math easier because we can handle amplitude and phase information together.
 When we use a complex exponential like `Vke^(jωt)` to represent a voltage, the real part of this expression, `Re{Vke^(jωt)}`, gives us the actual, physically measurable voltage waveform.
 
@@ -13,3 +14,5 @@ When we use a complex exponential like `Vke^(jωt)` to represent a voltage, the 
 - `j` is the imaginary unit (√-1).
 
 - Notice it is j(wt + φ) and not jwt + φ.
+
+Bkz: [[Matematik]] • [[Fizik]] • [[Engineering]]

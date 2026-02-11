@@ -1,5 +1,8 @@
 ---
 publish: 1
+tags:
+  - topic/signals
+  - topic/engineering
 ---
 
 A **causal system** is one where the **output at any time depends only on the present and past values** of the input, **not future values**. This means that the system does not "anticipate" future inputs.
@@ -23,3 +26,5 @@ y(t)=x(t)cos(t+1)?
 
 
 [[Casuality of linear systems]]
+
+Bkz: [[Engineering]] • [[Matematik]] • [[Fizik]]

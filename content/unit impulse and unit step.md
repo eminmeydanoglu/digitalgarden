@@ -3,9 +3,13 @@ sr-due: 2025-04-13
 sr-interval: 4
 sr-ease: 270
 publish: 1
+tags:
+  - topic/signals
+  - topic/engineering
+entity_extraction_done: true
 ---
 
-#rw 
+ 
 ### Unit impulse (sample)
 ![[Pasted image 20250309141523.png]]
 
@@ -29,3 +33,5 @@ or the running integral!
 ![[Pasted image 20250309142307.png]]
 Or, 
 ![[Pasted image 20250309143641.png]]
+
+Bkz: [[Matematik]] • [[Engineering]] • [[Fizik]]

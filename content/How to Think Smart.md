@@ -10,3 +10,5 @@ Stresin, rahatsızlığın ve birçok diğer illetin düşüncelerden kaynakland
 
 [[Hakkında yeterince bilginin olmadığı bir konuda düşünmek]]
 
+Bkz: [[Deep Work]] • [[Stoa]]
+

@@ -1,5 +1,8 @@
 ---
 publish: 1
+entity_extraction_done: true
+tags:
+  - topic/math
 ---
 
 Let f(x,y). Points where both Fx(x,y) = Fy(x,y) = 0 are critical points, and will include any extrema or minima there. (KIM that extrema can occur at the boundary points of the region of f) 

@@ -1,6 +1,11 @@
 ---
 publish: 1
+tags:
+  - topic/philosophy
+  - topic/psychology
 ---
+
+## İnsanların Davranışları
 
 İnsanların çok zeki canlılar olduğunu söyledim. Ancak, onların davranışları o kadar da komplike değildir.
 Aslında insanlar çoğu konuda bir [[hayvan]] gibi, bazı konularda da zeki bir hayvan gibi çalışır. Günlük hayatta yaptığımız davranışların çoğu basit algoritmalara dayanır ve dışarıdan bakıldığında gerçekten de hayvansı görünür.
@@ -27,3 +32,5 @@ Mastürbasyon, cinselliğin başlarında olan deneyimsiz gençlerin başına bel
 
 Genel deneyimim olarak,
 genç olmayan insanların daha kaliteli olduğunu görüyorum. Bu sebeple gençlere karşı biraz ön yargılıyım. Ha, kaliteli bir genç görürsem de resmen aşık oluyorum, o da ayrı. Kısacası, gençliğin verdiği yavanlığın sonucu olan bu dertten kurtulmalıyız. Çevremize gençlerin gücünü göstermeli, örnek olmalıyız.
+
+Bkz: [[Stoa]] • [[Erdemsiz Davranışlar]] • [[Kriz Anında]] • [[present bias]]

@@ -1,8 +1,13 @@
 ---
 publish: 1
+tags:
+  - topic/math
+  - topic/statistics
 ---
 
-Bayes kuralı, olasılık teorisinde, bir hipotezin verilere dayalı olarak güncellenmesine olanak tanır. Başlangıçtaki inançlarımızı, yeni bilgilerle nasıl değiştireceğimizi gösterir. Matematiksel ifadesi aşağıdaki gibidir:
+## Bayes Kuralı
+
+Bayes kuralı, [[Olasılık|olasılık teorisinde]], bir hipotezin verilere dayalı olarak güncellenmesine olanak tanır. Başlangıçtaki inançlarımızı, yeni bilgilerle nasıl değiştireceğimizi gösterir.
 
 
 $$ 
@@ -44,3 +49,5 @@ P(H | E) = \frac{0.99 \cdot 0.01}{0.0198} \approx 0.5
 $$
 
 Bu durumda, testin pozitif çıkması durumunda kişinin gerçekten hasta olma olasılığı %50'dir. Bu örnek, bir testin doğruluğu ve hastalığın popülasyondaki yaygınlığı arasındaki ilişkinin nasıl değerlendirileceğini gösterir.
+
+Bkz: [[Matematik]] • [[reasoning models]] • [[Critical Thinking]]

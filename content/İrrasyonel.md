@@ -1,5 +1,8 @@
 ---
 publish: 1
+tags:
+  - type/index
+entity_extraction_done: true
 ---
 
 Düşünce hataları, safsatalar, yanılgılar.

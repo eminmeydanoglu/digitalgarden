@@ -1,5 +1,7 @@
 ---
 publish: 1
+tags:
+  - topic/ai
 ---
 
 Sistemin otonomluğunun tanımı nedir?

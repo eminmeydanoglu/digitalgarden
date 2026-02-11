@@ -1,8 +1,11 @@
 ---
 publish: 1
+entity_extraction_done: true
+tags:
+  - topic/ai
 ---
 
-#rw
+
 ![[Pasted image 20250309153122.png]]
 ![[Pasted image 20250309153132.png]]
 ### interestingly,

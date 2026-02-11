@@ -7,3 +7,5 @@ Ayrıca iki haftalık kağıtlar kullanıp, ilerlediğim konuları onlarda birik
 
 - O an neyi çalıştığımın farkında olurum. 
 - Çalışma esnasındaki ilerlememi görürüm (çok kısa süreçlerde ve de uzun süreçlerde)
+
+Bu yöntem [[Lisans Hayatım]] hedeflerimi takip etmek için ideal. [[Vaktimi boşa harcıyormuşum]] endişesine karşı da etkili bir çözüm.

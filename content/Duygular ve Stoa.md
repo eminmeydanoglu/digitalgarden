@@ -1,12 +1,17 @@
 ---
 publish: 1
+tags:
+  - topic/philosophy
 ---
+
+## Duygular ve Stoa
 
 ### Stoacılığın anahtar kavramları
 + eyleme geçmek
 + kontrol  
 + aklın üstünlüğü
-# Duyguları Anlamak
+
+## Duyguları Anlamak
 
 İnsan duygularını [[hayvan]] duygularından ayıran, onları insanlar üzerinde bu kadar etkili kılan şey insanın inanılmaz gelişmiş beyni ve düşünce yeteneğidir.
 Hayvanlarda negatif durumlar stres tepkisine neden olur. Diğer ıhayvanlarda bunun ilkel hali, bir tepki aldığında korkuya kapılmak olabilir. Biz, güçlü bir belleğe sahip olduğumuz ve geleceği hayal edebildiğimiz için, düşünebildiğimiz için kafamızda daha fazla belirsizlik oluşur. Bu duygular bize daha fazla sirayet eder. Bunu [[Her Düşündüğüne İnanma!]]'da detaylıca açıklamıştım.
@@ -34,3 +39,4 @@ Aklımın elverişli olmadığı hakkında kaygılanmam. Aklımın elverişli ol
 
 > Yapabileceğine odaklan, ve yap.
 
+Bkz: [[Stoa]] • [[Roma İmparatoru Gibi Düşünmek]] • [[Kriz Anında]] • [[Adem]]

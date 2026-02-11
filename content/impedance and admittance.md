@@ -1,12 +1,11 @@
 ---
 publish: 1
+entity_extraction_done: true
 ---
 
-#rw
 [[combining impedances and admittances in series and parallel]]
 [[understanding the phase angle]]
 [[quality factor]]
-
 
 ---
 ### impedance 
@@ -19,7 +18,6 @@ Of course these are in phasors, [[frequency domain]]
 1. The `jX` term in the impedance equation `Z = V/I = R + jX` represents the _imaginary_ part of the impedance, called [[reactance]]
 2. Reactance, like resistance, is measured in ohms. However, unlike resistance (which dissipates energy as heat), reactance _stores_ energy in either an electric field (in a capacitor) or a magnetic field (in an inductor).
 3. The `j` is used as a mathematical tool to represent the 90-degree phase shift between voltage and current in reactive components. It allows us to handle this phase difference using complex number arithmetic. Check [[capacitor and inductance in frequency domain]] 
-
 
 ### admittance 
 `Y = I / V = G + jB`
@@ -34,7 +32,6 @@ Of course these are in phasors, [[frequency domain]]
 ### the table 
 ![[Pasted image 20250309155927.png]]
 
-#questions 
 ![[Pasted image 20250309160215.png]]
 
 ### resonance 

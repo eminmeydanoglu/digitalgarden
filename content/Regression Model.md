@@ -1,7 +1,9 @@
 ---
 publish: 1
+tags:
+  - topic/ai
 ---
-#rw
+
 Regression: A type of supervised learning algorithm used to predict new values based on the "true" data. After we give it 50 house size and price value, our function can make a price prediction (y-hat) of a house size of x. (the feature)
 ![[Regression Model-20240506171158332.webp|325]]
 
@@ -18,3 +20,5 @@ Goal of linear regression is to minimize cost function J. We should have the mos
 ## Model with more than 1 feature:
 ![[Regression Model-20240609105530336.webp|524]]
 Is now a dot product.
+
+Bkz: [[Matematik]] • [[Reinforcement Learning]] • [[reasoning models]]

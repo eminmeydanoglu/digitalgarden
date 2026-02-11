@@ -1,6 +1,6 @@
 ---
 aliases:
-  - signal
+  
 publish: 1
 ---
 

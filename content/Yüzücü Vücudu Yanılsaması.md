@@ -1,5 +1,6 @@
 ---
 publish: 1
+entity_extraction_done: true
 ---
 
 İşletme yüksek lisansının 100.000 dolarlık maliyetinin yanında, emekliliğe kadar ortalama 400.000 dolarlık ek gelir sağladığı söyleniyor. 

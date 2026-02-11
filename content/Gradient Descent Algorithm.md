@@ -1,5 +1,7 @@
 ---
 publish: 1
+tags:
+  - topic/ai
 ---
 
 ![[Gradient Descent Algorithm-20240515111331854.webp]]
@@ -7,3 +9,5 @@ Gradient Descent finds the best w and b that minimizes the cost function. Rememb
 ![[Gradient Descent Algorithm-20240515111855961.webp]]
 ![[Gradient Descent Algorithm-20240820114614125.png]]
 Gradient descent initializes itself a point in the surface, and takes steps in the steepest downhill direction.
+
+Bkz: [[Matematik]] • [[Reinforcement Learning]] • [[reasoning models]]

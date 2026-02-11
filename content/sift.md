@@ -2,7 +2,7 @@
 publish: 1
 ---
 
-#english #rw 
+#english  
 elemek, kalburdan geçirmek...
 
 [[convolution sum]]

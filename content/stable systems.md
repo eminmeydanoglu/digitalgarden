@@ -2,10 +2,12 @@
 aliases:
   - BIBO
 publish: 1
+tags:
+  - topic/signals
+  - topic/engineering
 ---
 
-
-#rw 
+## Stable Systems (BIBO Stability)
 
 - A system is considered **stable** if **small inputs** lead to responses that **do not diverge**.
 - This essentially means that minor perturbations in the input should not cause unbounded growth in the system's response.
@@ -36,4 +38,4 @@ You cant find a bounded x(t) such that e^x(t) is unbounded.
 
 ![[Pasted image 20250313135332.png]]
 
-
+Bkz: [[Thinking in Systems]] • [[Engineering]] • [[Matematik]]

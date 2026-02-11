@@ -1,5 +1,8 @@
 ---
 publish: 1
+tags:
+  - topic/philosophy
+  - topic/poetry
 ---
 
 Akılla bir konuşmam oldu dün gece  
@@ -29,6 +32,8 @@ Hayyam'ın bu sözlerine ne dersin dedim
 Dizmiş alt alta sözleri  
 Hoşbeş etmiş derim dedi
 
+> *Bkz: [[Ömer Hayyam]]*
+
 ==Ben olmayınca bu güller yok==  
 ==Ben olmayınca bu serviler yok==  
 ==Kızıl kızıl dudaklar yok==  
@@ -45,3 +50,5 @@ Ben olmayınca bu derbend yok
 Kız
 Dalgalanan deryalar yok
 Hoş kokulu çiçekler yok
+
+Bkz: [[Stoa]] • [[Sokrates]] • [[qualia]]

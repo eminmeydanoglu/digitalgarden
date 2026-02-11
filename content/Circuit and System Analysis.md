@@ -1,7 +1,8 @@
 ---
 aliases:
-  - dsa
+  
   - cas
+entity_extraction_done: true
 publish: 1
 ---
 

@@ -1,6 +1,11 @@
 ---
 publish: 1
+tags:
+  - topic/philosophy
+entity_extraction_done: true
 ---
+
+See also: [[types of valid arguments]], [[direct proof]], [[proof by contradiction]]
 
 1. **Deductive Arguments**:  "tümevarım"
    - **Definition**: Deductive arguments aim to provide absolute support for their conclusions. If the premises are true, the conclusion must also be true.
@@ -38,3 +43,5 @@ publish: 1
    - **Strength**: The strength of an analogical argument depends on the relevance and degree of similarity between the cases compared.
 
 Each type of argument has its own role and is useful in different contexts, depending on the nature of the claims being made and the evidence available.
+
+Bkz: [[Sokrates]] • [[How can reason lead to god]]

@@ -1,5 +1,9 @@
 ---
 publish: 1
+tags:
+  - topic/signals
+  - topic/engineering
+entity_extraction_done: true
 ---
 
  The transfer function, `H(jw)`, equaling to Y/U, is a [[frequency domain]] representation of the system's input-output relationship.
@@ -16,3 +20,5 @@ Lets analyze this:
 ![[Pasted image 20250307140123.png]]
 1. H is in complex domain. U is in complex domain. 
 2. **cos(ωt + ∠H(jω) + ∠U(jω))**: The output is a cosine wave with the original frequency (ω) but with a phase shift equal to the sum of the phase shifts introduced by the system and the input signal.
+
+Bkz: [[Matematik]] • [[Engineering]] • [[Fizik]]

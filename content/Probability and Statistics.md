@@ -1,5 +1,7 @@
 ---
 publish: 1
+tags:
+  - topic/math
 ---
 
 [[marginal, joint]]
@@ -17,3 +19,5 @@ You have a fair coin (equal probability of heads or tails). You will toss it 100
 You have a coin of unknown provenance. To investigate whether it is fair you toss it 100 times and count the number of heads. Let’s say you count 60 heads. Your job as a statistician is to draw a conclusion (inference) from this data. There are many ways to proceed, both in terms of the form the conclusion takes and the probability computations used to justify the conclusion. In fact, different statisticians might draw different conclusions.
 
 Note that in the first example the random process is fully known (probability of heads = 0.5). The objective is to find the probability of a certain outcome (at least 60 heads) arising from the random process. In the second example, the outcome is known (60 heads) and the objective is to illuminate the unknown random process (the probability of heads).
+
+Bkz: [[Matematik]] • [[Reinforcement Learning]] • [[reasoning models]]

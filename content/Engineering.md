@@ -1,6 +1,13 @@
 ---
 publish: true
+tags:
+  - type/index
+entity_extraction_done: true
 ---
+[[5th semester]]
+
+
+
 
 ### University
 ![[3rd semester]] 

@@ -1,8 +1,10 @@
 ---
 publish: 1
+tags:
+  - topic/math
 ---
 
-#rw
+
 ![[Pasted image 20250227125139.png]]
 - **`ẋ = Ax + Bu`:** This is the _state equation_. It describes how the internal state of the system (`x`) changes over time.
     

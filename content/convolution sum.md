@@ -6,8 +6,9 @@ sr-due: 2025-04-12
 sr-interval: 3
 sr-ease: 250
 publish: 1
+entity_extraction_done: true
 ---
-#rw #signal 
+  
 
 ![[Pasted image 20250404152152.png]]
 

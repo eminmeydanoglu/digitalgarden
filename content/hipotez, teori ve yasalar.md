@@ -1,5 +1,6 @@
 ---
 publish: 1
+entity_extraction_done: true
 ---
 
 Doğada çeşitli olaylar görürüz. Mesela akım geçen telin etrafında manyetik alan oluşturduğunu görürüz, ağaçtan kopan elmanın yere ivmelendiğini görürüz, canlıların aralarında ciddi genetik ve fiziksel benzerlikler olduğunu görürüz.
@@ -13,6 +14,6 @@ Ortaya atılan hipotezler, yanlışlanmaya çalışılırlar. Bir hipotez, kendi
 Kanunlar ise, genellikle doğada gözlemlenen düzenli bir fenomeni açıklayan veya tanımlayan kesin ifadelerdir. Bilimsel yasalar doğadaki gözlemlemiş, üstüne bilimsel olarak açıklanmış yargılardır.
 
 Örneğin,
-+ Newton yasalarından ilki, cismin net kuvvetin etkisinde değilken mevcut durumunu koruyacağını söyleyen eylemsizlik yasasıdır.
-+ Mendel'in birinci yasası, bireyin bir karakterle ilgili sahip olduğu iki geninin ayrılarak farklı gametlere gittiğini söyleyen ayrılma yasasıdır.
-+ Kepler'in ikinci yasası, bir gezegeni güneşine bağlayan ipin eşit sürede eşit alanı taradığını söyler.
++ [[Newton]] yasalarından ilki, cismin net kuvvetin etkisinde değilken mevcut durumunu koruyacağını söyleyen eylemsizlik yasasıdır.
++ [[Mendel]]'in birinci yasası, bireyin bir karakterle ilgili sahip olduğu iki geninin ayrılarak farklı gametlere gittiğini söyleyen ayrılma yasasıdır.
++ [[Kepler]]'in ikinci yasası, bir gezegeni güneşine bağlayan ipin eşit sürede eşit alanı taradığını söyler.

@@ -1,6 +1,9 @@
 ---
 publish: 1
 ---
+
+See also: [[Evrim]], [[Arguments On God]]
+
 ===Bir çiçeğin açması
 Bir yıldızın sönmesi
 Bir insanın doğması

@@ -1,5 +1,7 @@
 ---
 publish: 1
+tags:
+  - topic/ai
 ---
 
 ![[Pasted image 20250307155804.png]]
